@@ -33,6 +33,10 @@ The above example is a config file for my test bot; The Zeus Bot.
 - **queries**: An array of strings that will be used to query Twitter. 
 - **responses**: An array of string that will be used to respond to matching queries. 
 
+### Run
+
+	java -cp TwitterBot.jar Bot
+You can run the program with the normal class files, but you'll need to link all the libraries. 
 ### Required Libraries
 
 [json-simple-1.1.1](http://code.google.com/p/json-simple/downloads/list), [signpost-core-1.2.1.2](http://code.google.com/p/oauth-signpost/downloads/list), [commons-codec-1.7](http://commons.apache.org/codec/download_codec.cgi)
