@@ -1,6 +1,7 @@
 Twitter-Bot
 ===========
 
+Author: Wilson Giese - giese.wilson@gmail.com
 ### About
 
 A Twitter bot that will query for specified terms and respond the the tweets using the Twitter REST API. 
