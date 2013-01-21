@@ -26,7 +26,7 @@ To run this application several things need to be defined in a config file. Exam
 }
 ```
 
-The above example is a config file for my test bot; The Zeus Bot. 
+The above example is a config file for my test bot; The Zeus Bot(OAuth keys excluded). 
 - **min/max_min_time_between_cycles**: This variable is the time in milliseconds that the bot will wait to run another cycle. The time is chosen randomly for each cycle. 
 - **max_tweets_per_cycle**: This variable is the maximum number of tweets posted per cycle. 
 - **consumer_key, consumer_secret, access_token, & access_token_secret**: These are the OAuth keys used to post to twitter using the REST API. These keys are given by Twitter and should remain a secret. Consumer keys are for the application itself, and access keys are for the twitter account that will post the "tweets". 
