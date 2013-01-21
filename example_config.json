@@ -1,0 +1,14 @@
+{
+	"min_time_between_cycles":180000,
+	"max_time_between_cycles":3000000,
+	"max_tweets_per_cycle":1,
+				          
+	"consumer_key":"YOUR CONSUMER KEY",
+	"consumer_secret":"YOUR CONSUMER SECRET",
+	"access_token":"YOUR ACCESS TOKEN",
+	"access_token_secret":"YOUR ACCESS TOKEN SECRET",
+	
+	"queries":   ["i like rain", "i love rain", "rain is awesome"], 
+	"responses": ["You're welcome.", "I'm glad you like it.",  
+				  "Just doing my job, no need to thank me."]
+}
