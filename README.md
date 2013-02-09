@@ -8,7 +8,7 @@ A Twitter bot that will query for specified terms and respond the the tweets usi
 
 ### Config
 
-To run this application several things need to be defined in a config file. Example
+To run this application several things need to be defined in a config file. Example config.json:
 ```json
 {
 	"min_time_between_cycles":180000,
