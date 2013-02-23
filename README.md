@@ -42,4 +42,4 @@ You can run the program with the normal class files, but you'll need to link all
 [json-simple-1.1.1](http://code.google.com/p/json-simple/downloads/list), [signpost-core-1.2.1.2](http://code.google.com/p/oauth-signpost/downloads/list), [commons-codec-1.7](http://commons.apache.org/codec/download_codec.cgi)
 
 ### Notes
-This bot was not created as a spam or advertisement bot, just as a way to explore the Twitter, OAuth, and JSON API's. That said, you can use or modify the code as much as you want. 
+This bot was not created as a spam or advertisement bot, just as a way to explore the Twitter, OAuth, and JSON API's. That said, you can use or modify the code as you see fit. 
