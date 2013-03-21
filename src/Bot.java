@@ -273,7 +273,7 @@ public class Bot {
 	
 	/* Example test run */ 
 	public static void main(String[] args) {
-		Bot b = new Bot("./config.json"); 
+		Bot b = new Bot(args[0]); 
 		b.run(); 
 	}
 }
